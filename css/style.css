@@ -30,6 +30,14 @@ html, body {
 .content {
     text-align: center;
 }
+
+.info_p{
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    border-bottom: 1px solid #636b6f33;
+    padding-bottom: 1rem;
+}
 .content img{
     width: 100%;
     max-width: 120px;
