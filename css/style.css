@@ -27,6 +27,13 @@ html, body {
     top: 18px;
 }
 
+.top-left {
+    position: absolute;
+    left: 10px;
+    top: 18px;
+    width: 32px;
+}
+
 .content {
     text-align: center;
 }
@@ -41,6 +48,11 @@ html, body {
 .content img{
     width: 100%;
     max-width: 120px;
+}
+
+.top-left img{
+    width: 100%;
+    max-width: 32px;
 }
 
 .bold{
