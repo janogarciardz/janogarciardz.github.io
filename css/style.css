@@ -42,6 +42,11 @@ html, body {
     width: 100%;
     max-width: 120px;
 }
+
+img.404{
+    transform: rotate(180deg);
+}
+
 .title {
     font-size: 74px;
 }
