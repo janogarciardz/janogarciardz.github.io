@@ -54,5 +54,9 @@ html, body {
 
 .m-b-md {
     margin-bottom: 50px;
+
+}
+
+.border-b{
     border-bottom: 3px solid;
 }
