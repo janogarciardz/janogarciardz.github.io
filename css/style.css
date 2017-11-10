@@ -69,6 +69,32 @@ html, body {
     text-transform: uppercase;
 }
 
+.btn{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: #fff;
+    border: .05rem solid #636b6f;
+    border-radius: .1rem;
+    color: #636b6f;
+    cursor: pointer;
+    display: inline-block;
+    font-size: .8rem;
+    height: 1.8rem;
+    line-height: 1rem;
+    outline: none;
+    padding: .35rem .4rem;
+    text-align: center;
+    text-decoration: none;
+    transition: all .2s ease;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
 .m-b-md {
     margin-bottom: 50px;
 
