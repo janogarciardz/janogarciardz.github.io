@@ -39,7 +39,7 @@
      showgrid="false"
      inkscape:zoom="1.3111111"
      inkscape:cx="91.161172"
-     inkscape:cy="-66.594073"
+     inkscape:cy="24.931351"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -87,69 +87,4 @@
        id="ellipse16"
        style="fill:#2b2b2b" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="-107.92374"
-     y="125.46609"
-     id="text851"><tspan
-       sodipodi:role="line"
-       id="tspan849"
-       x="-107.92374"
-       y="125.46609"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#1a1a1a"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'"
-   id="tspan853">Alejandro</tspan>García</tspan></text>
-  <g
-     id="penguin-1"
-     transform="translate(-70.914982,173.27398)">
-    <path
-       class="cls-1"
-       d="m 51.86,28.64 a 7.39,7.39 0 0 1 5.32,-8 l 0.6,-0.18 h 1.67 l 13.62,0.68 a 1.67,1.67 0 0 1 1,3 L 61,34.2 a 7.41,7.41 0 0 1 -1.78,0.6 v 0 a 7.22,7.22 0 0 1 -7.36,-6.16 z"
-       id="path8-7"
-       inkscape:connector-curvature="0"
-       style="fill:#ffa400" />
-    <path
-       class="cls-2"
-       d="M 61.25,42.32 61,35.87 v 0 l 0.22,6.46 c 2.54,3 14.58,18.1 14.58,37.6 q 0,1 0,1.94 A 3.33,3.33 0 0 1 72.44,85 H 17.83 c 0,-3.79 23.44,-9.91 23.44,-19.73 0.01,-16.64 13.37,-21.54 19.98,-22.95 z"
-       id="path10-8"
-       inkscape:connector-curvature="0"
-       style="fill:#e6e6e6" />
-    <path
-       class="cls-3"
-       d="m 61,34.2 c -3.85,0.13 -7.43,-0.9 -8,-5.12 a 7.93,7.93 0 0 1 5.73,-8.4 l 0.64,-0.19 A 23.34,23.34 0 0 0 30.92,5.9 23,23 0 0 0 14.25,28.15 v 0.12 c 0,2.11 -0.19,33.58 0,53.46 0,1.82 2,3.26 3.79,3.26 h 3.42 A 19.77,19.77 0 0 0 41.28,65.27 v 0 c 0,-16.65 13.36,-21.54 20,-23 z"
-       id="path12-5"
-       inkscape:connector-curvature="0"
-       style="fill:#404041" />
-    <path
-       class="cls-4"
-       d="m 33.86,24.17 a 6.7,6.7 0 1 0 6.7,-6.67 6.68,6.68 0 0 0 -6.7,6.67 z m 2.91,0 a 3.79,3.79 0 1 1 3.79,3.77 3.78,3.78 0 0 1 -3.79,-3.77 z"
-       id="path14-7"
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff" />
-    <ellipse
-       class="cls-5"
-       cx="40.560001"
-       cy="24.17"
-       rx="3.79"
-       ry="3.77"
-       id="ellipse16-4"
-       style="fill:#2b2b2b" />
-  </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:21.87194633px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.54679865"
-     x="15.678465"
-     y="230.72064"
-     id="text851-1"><tspan
-       sodipodi:role="line"
-       id="tspan849-8"
-       x="15.678465"
-       y="230.72064"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#1a1a1a;stroke-width:0.54679865">Alejandro</tspan><tspan
-       sodipodi:role="line"
-       x="15.678465"
-       y="258.06058"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#1a1a1a;stroke-width:0.54679865"
-       id="tspan894">García</tspan></text>
 </svg>
