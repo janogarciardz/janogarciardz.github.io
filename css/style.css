@@ -43,6 +43,10 @@ html, body {
     max-width: 120px;
 }
 
+.bold{
+    font-weight: bold;
+}
+
 .e404{
     transform: rotate(180deg);
 }
