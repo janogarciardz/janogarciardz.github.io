@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Projects - Alejandro García</title>
+        <title>Snippets - Alejandro García</title>
         <meta name="author" content="Alejandro Garcia">
 		<meta name="description" content="I’m a backend and front-end developer living and working in México.">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,6 +13,9 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700,900" rel="stylesheet">
         <!-- Styles -->
+        <link rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atom-one-dark.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
         <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
@@ -29,16 +32,23 @@
             </div>
             <div class="content">
                 <div class="title m-b-md bold">
-                    Projects
+                    Translate Texts
                 </div>
 
                 <div class="info_p">
-                    <h3>DentalApp</h3>
-                    <p>Simple and modern software for dental clinics developed with Laravel.</p>
-                    <a class="btn" href="https://github.com/janogarciardz/dentalapp">Github</a>
+                    <pre><code class="javascript">
+                        $(document).ready(function() {
+                          $('pre code').each(function(i, block) {
+                            hljs.highlightBlock(block);
+                          });
+                        });
+                    </code></pre>
                 </div>
+
+
 
             </div>
         </div>
+        <script>hljs.initHighlightingOnLoad();</script>
     </body>
 </html>
