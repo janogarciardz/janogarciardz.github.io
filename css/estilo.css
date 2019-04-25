@@ -129,7 +129,7 @@ h1.name {
 	vertical-align: top;
 	display: inline-block;
 	width: 49.7%;
-	height: 50px;
+	height: auto;
 }
 
 .section-title {
